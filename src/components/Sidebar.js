@@ -24,8 +24,8 @@ p-6
 border
 border-zinc-800
 h-fit
-sticky
-top-6
+md:sticky
+md:top-6
 "
 
 >
